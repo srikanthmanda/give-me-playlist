@@ -1,0 +1,27 @@
+body {
+	color: black;
+	font-size: 1em;
+	font-family: "Consolas", "Verdana";
+	line-height: 1.6em;
+	max-width: 80em;
+	padding: 1em 3em 1em 3em;
+	}
+
+a:link{
+	color:blue;
+	text-decoration: none;
+}
+
+a:visited{
+	color:purple;
+	text-decoration: none;
+}
+
+a:hover{
+	color:orange;
+	text-decoration: none;
+}
+
+h1, h2, h3 {
+	line-height: 1.2
+	}
